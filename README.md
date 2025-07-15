@@ -17,21 +17,19 @@ The goal of this project is to introduce developers to the core concepts of sett
 
 ## 📁 Project Structure
 
-alx-project-0x00/
-│
-├── components/ # Reusable UI components (Card, Pill, Button)
-├── interfaces/ # TypeScript interfaces for component props
-├── pages/ # Page-based routing (index, landing, about)
-├── public/ # Static assets like images
-├── styles/ # Global styles (if needed)
-├── next.config.js # Next.js configuration
-├── tailwind.config.js # Tailwind CSS setup
-├── tsconfig.json # TypeScript configuration
-└── package.json # Project metadata and dependencies
+<pre>alx-project-0x00/ 
+|
+├── components/ # Reusable UI components (Card, Pill, Button) 
+├── interfaces/ # TypeScript interfaces for component props 
+├── pages/ # Page-based routing (index, landing, about) 
+├── public/ # Static assets like images 
+├── styles/ # Global styles (if needed) 
+├── next.config.js # Next.js configuration 
+├── tailwind.config.js # Tailwind CSS setup 
+├── tsconfig.json # TypeScript configuration 
+└── package.json # Project metadata and dependencies </pre>
 
-markdown
-Copy
-Edit
+
 
 ## ✨ Features
 
