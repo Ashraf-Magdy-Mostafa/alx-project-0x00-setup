@@ -10,10 +10,10 @@ function landing() {
             <Card />
             <Card />
 
-            <Button title="Large" className="text-lg" />
-            <Button title="small" className="text-sm" />
-            <Button title="Rounded-md" className="rounded-md" />
-            <Button title="Rounded-full" className="rounded-full" />
+            <Button title="Large" styles="text-lg" />
+            <Button title="small" styles="text-sm" />
+            <Button title="Rounded-md" styles="rounded-md" />
+            <Button title="Rounded-full" styles="rounded-full" />
 
         </div>
     )
