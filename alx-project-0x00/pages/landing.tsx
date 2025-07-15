@@ -14,7 +14,7 @@ function landing() {
             <Button title="small" styles="text-sm" />
             <Button title="Rounded-small" styles="rounded-sm" />
             <Button title="Rounded-medium" styles="rounded-md" />
-            <Button title="Rounded-full" styles="rounded-full" />
+            <Button title="Rounded-large" styles="rounded-lg" />
 
         </div>
     )
