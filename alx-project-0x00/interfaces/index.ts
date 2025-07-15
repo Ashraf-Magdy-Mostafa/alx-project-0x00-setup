@@ -2,8 +2,9 @@ export interface PillProps {
     title: string
 }
 
+// interfaces/index.tsx
 export interface ButtonProps {
     title: string;
-    styles?: string;
-    onclick?: () => void;
+    styles: string; // <-- Add this line
+    onClick?: () => void;
 }
